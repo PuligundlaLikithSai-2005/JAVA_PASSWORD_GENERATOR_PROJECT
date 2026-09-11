@@ -1,0 +1,17 @@
+Sample Run
+
+Welcome to Ziz Password Services :)
+
+1 - Password Generator
+2 - Password Strength Check
+3 - Useful Information
+4 - Quit
+Choice: 1
+
+Uppercase letters? (yes/no): yes
+Lowercase letters? (yes/no): yes
+Numbers? (yes/no): yes
+Symbols? (yes/no): yes
+Enter password length: 12
+
+Your generated password -> <random-password>
