@@ -1,5 +1,5 @@
 # 🔐 Java Password Generator & Strength Checker
-
+[PASSWORD_LOGO](https://github.com/PuligundlaLikithSai-2005/JAVA_PASSWORD_GENERATOR_PROJECT/blob/main/Password_LOGO.png)
 A console-based Java project that generates passwords, checks password strength, and provides password-security tips.
 
 ## Features
